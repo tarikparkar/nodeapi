@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "first node api package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarikparkar/nodeapi.git"
+  },
+  "author": "tarik parkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarikparkar/nodeapi/issues"
+  },
+  "homepage": "https://github.com/tarikparkar/nodeapi#readme"
+}
